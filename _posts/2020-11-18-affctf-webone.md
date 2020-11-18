@@ -12,5 +12,5 @@ After some manual enumeration in the HTML soruce You'll notice some unusual HTML
 I wrote a fast script to collect & decode the entites
 [Click me to get the script](https://pastebin.com/x0P7513Q)
 And run it we got the flag
-![script](script.png)
+![](/../../assets/affctf/script.png)
 The flag is `AFFCTF{htmlentity}`
