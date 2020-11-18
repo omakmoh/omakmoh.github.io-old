@@ -3,7 +3,7 @@ title: Affinity CTF Lite 2020 - MISC
 published: true
 ---
 Hello, i'm *Omar* again, yesterday i've Pwned Affinity CTF Lite 2020
-I'll first with the first category and it's the Miscellaneous category.
+I'll start with the first category and it's the Miscellaneous category.
 It's have one challange ( for me but the category have DiscOrder, just take the flag from discord )
 Let's start with Shark has a long tail
 ![](/../../assets/affctf/sharkchallange.png)<br>
