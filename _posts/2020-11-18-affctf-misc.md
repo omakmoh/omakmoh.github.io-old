@@ -14,7 +14,7 @@ I Just noticed something very interesting, the TCP header length of all packets 
 ![](/../../assets/affctf/packetslen.png)<br>
 which means it could be decimal. After some using of google & [tshark documentation](https://www.wireshark.org/docs/man-pages/tshark.html) i get this command `tshark -r SharkHasALongTail.pcap -T fields -e tcp.len`
 i used it on the file. and the output was
-![](/../../assets/affctf/output.png)<br>
+<BR>![](/../../assets/affctf/output.png)<br>
 Copy it and paste into cyberchef and choose Decimal recipe.
 ![](/../../assets/affctf/flagoutput.png)<br>
 The flag is `AFFCTF{TCPDUMP_Never_Disappoints}`
