@@ -14,3 +14,14 @@ I wrote a fast script to collect & decode the entites
 And run it we got the flag
 ![](/../../assets/affctf/script.png)
 The flag is `AFFCTF{htmlentity}`
+
+* * *
+Second Challange: 
+![](/../../assets/affctf/poddchallange.png)<br>
+If we Open the given [Link](http://web3.affinityctf.com) it's give us a Challenge name & Challenge description
+![](/../../assets/affctf/poddchallanged.png)<br>
+The author gave us a directory in the description,first thing came to my mand it's [URL DOUBLE ENCODING](https://owasp.org/www-community/Double_Encoding)
+I'll encode this given directory using this [Website](https://www.url-encode-decode.com)
+![](/../../assets/affctf/twiceencoding.png)<br>
+Then put the encoded directory in the [URL](http://web3.affinityctf.com/here%252Fis%252Fthe_flag) you'll get the flag.
+The flag is `AFFCTF{1s7r1pl3D1p83tt3r?}`
