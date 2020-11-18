@@ -2,8 +2,8 @@
 title: Affinity CTF Lite 2020 - Web Part two
 published: true
 ---
-Continuing the Affinity CTF Lite 2020 Writeups.
-![](/../../assets/affctf/soodefaultchallange.png)<br>
+Continuing the Affinity CTF Lite 2020 Writeups.<br>
+![](/../../assets/affctf/cmiyc.png)<br>
 The task:
 >Get the flag by reading the text of the image. Time is of essence
 
