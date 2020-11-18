@@ -7,7 +7,7 @@ Continuing the Affinity CTF Lite 2020 Writeups.<br>
 The task:
 >Get the flag by reading the text of the image. Time is of essence
 
-![img1](/../../assets/affctf/img.png)
+![](/../../assets/affctf/img.png)
 
 The image is refreshed every 10 seconds, if we're able to copy & paste the characters in less than 10 seconds == we win.
 
