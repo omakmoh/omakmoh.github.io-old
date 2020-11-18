@@ -1,5 +1,5 @@
 ---
-title: Affinity CTF Lite 2020 - Web Part one.
+title: Affinity CTF Lite 2020 - Web Part One
 published: true
 ---
 Continuing the Affinity CTF Lite 2020 Writeups.
